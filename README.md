@@ -1,3 +1,3 @@
 # NKDemo
 This my first repository
-Auther - Nandkishor Ramesh Kumbhar
+Auther - Nandkishor Ramesh Kumbhar 
